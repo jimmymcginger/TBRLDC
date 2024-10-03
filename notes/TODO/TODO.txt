@@ -1,0 +1,41 @@
+SFX: 
+Enemy arrives?
+Enemy dies
+Move from room to room
+end of battle
+
+
+Stuff:
+Programme enemy attacks
+then maybe make like.. characters classes? and try feeding in moves instead of a hardcoded list
+
+Attacks that slow
+Battle menu could have a "memory" setting so it remembers where you were in a menu
+^ toggable in options
+
+
+
+BATTLELOG 
+SHould it loop (if it does, start/end should have a marker?)
+Should it reset? Should we have some kind of marker system to easily find entries?
+Colour/font changes for things like enemy name/ player names/ crits/ misses?
+
+holding tab should show battle log, pressing up and down would scroll it. Needs to have arrows. < toggle for it be held or pressed
+Turn order also needs arrows, could scroll that with some other letters
+
+Note: eventually the bars for turn order could have a bar, which ffx has, based on inititive
+
+
+
+end of battle - loot, you win message
+character KO
+make the turnorder longer and make it scrollable
+^ maybe when you scroll this you can also see the combat log? and scroll that? 
+
+Combat:
+Reviving (when we do, change death_text_done back to false. will have to do same for any SFX/VFX)
+
+let the fade finish when you finish a fight
+and arrow needs to show when the battlelog text is ready to skip
+
+animation between floors to show how far down you are

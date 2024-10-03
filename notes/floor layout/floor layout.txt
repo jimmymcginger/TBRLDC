@@ -1,0 +1,2 @@
+[x, y, blank/room, type of room (start room etc...)]
+[x, y, corridor,   N , E, S, W]

@@ -1,0 +1,13 @@
+Damage:
+Physcial hit
+elemental damage (magic hit)
++status effect
+phys + elem
++speed change
+
+Healing
+
+
+magic that just does 
+status effect
+etc...
